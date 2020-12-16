@@ -30,8 +30,7 @@ export function Header() {
         <NotificationsIcons id="header_icon" />
         <Avatar
           alt="Remy sharp"
-          src="https://avatars2.githubusercontent.com/u/
-                24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4"
+          src="https://lh3.googleusercontent.com/ogw/ADGmqu-lzWyBkjHbtD-m6SAt0_7_s55hEOfRCNC8IN1sAA=s32-c-mo"
         />
       </div>
     </div>
