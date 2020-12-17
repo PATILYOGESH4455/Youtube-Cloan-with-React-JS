@@ -13,7 +13,7 @@ function RecommendedVideos() {
             views='2.3M Views'         
             channelImage="https://yt3.ggpht.com/ytc/AAUvwniwccxGvXvGzzwka5f73aPbmdxvEX4G_cUd7TEzkw=s176-c-k-c0x00ffffff-no-rj-mo"
             channel="Clever Programmer"
-            image = "https://i.ytimg.com/an_webp/NT299zIk2JY/mqdefault_6s.webp?du=3000&sqp=CKbu5v4F&rs=AOn4CLC8yhSqmBJDRD-As7Qgw7uMT4Cyww"
+            image = "https://yt3.ggpht.com/ytc/AAUvwniwccxGvXvGzzwka5f73aPbmdxvEX4G_cUd7TEzkw=s176-c-k-c0x00ffffff-no-rj-mo"
         />
         
         <VideoCard 
@@ -40,7 +40,7 @@ function RecommendedVideos() {
           views='2.3M Views'         
           channelImage="https://yt3.ggpht.com/ytc/AAUvwngTzgXvh9cYMwmPgsBt2BFv49rPwB0URIh_rd-w=s176-c-k-c0x00ffffff-no-rj-mo"
           channel="MM"
-          image = "https://i.ytimg.com/an_webp/71Ry20xFP1k/mqdefault_6s.webp?du=3000&sqp=CNGP5_4F&rs=AOn4CLAMaxRx6Qnb1qq423QwzHz8zc9N4Q"
+          image = "https://yt3.ggpht.com/ytc/AAUvwniNTDIUibNIZwwUWC820n6i3yPz-rnBDwOpZED1CQY=s88-c-k-c0x00ffffff-no-rj"
         />
         <VideoCard
           title="The story of farmer family IAS office!"
@@ -56,7 +56,7 @@ function RecommendedVideos() {
             views='2.3M Views'         
             channelImage="https://yt3.ggpht.com/ytc/AAUvwniwccxGvXvGzzwka5f73aPbmdxvEX4G_cUd7TEzkw=s176-c-k-c0x00ffffff-no-rj-mo"
             channel="Clever Programmer"
-            image = "https://i.ytimg.com/an_webp/NT299zIk2JY/mqdefault_6s.webp?du=3000&sqp=CKbu5v4F&rs=AOn4CLC8yhSqmBJDRD-As7Qgw7uMT4Cyww"
+            image = "https://yt3.ggpht.com/ytc/AAUvwniwccxGvXvGzzwka5f73aPbmdxvEX4G_cUd7TEzkw=s176-c-k-c0x00ffffff-no-rj-mo"
         />
         <VideoCard
           title="Dream Big and Achive Big!"
@@ -64,7 +64,7 @@ function RecommendedVideos() {
           views='2.3M Views'         
           channelImage="https://yt3.ggpht.com/ytc/AAUvwngTzgXvh9cYMwmPgsBt2BFv49rPwB0URIh_rd-w=s176-c-k-c0x00ffffff-no-rj-mo"
           channel="MM"
-          image = "https://i.ytimg.com/an_webp/71Ry20xFP1k/mqdefault_6s.webp?du=3000&sqp=CNGP5_4F&rs=AOn4CLAMaxRx6Qnb1qq423QwzHz8zc9N4Q"
+          image = "https://yt3.ggpht.com/ytc/AAUvwniNTDIUibNIZwwUWC820n6i3yPz-rnBDwOpZED1CQY=s88-c-k-c0x00ffffff-no-rj"
         />
         <VideoCard
           title="The story of farmer family IAS office!"

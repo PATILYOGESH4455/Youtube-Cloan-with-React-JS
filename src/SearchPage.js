@@ -30,7 +30,7 @@ function SearchPage() {
                 timestamp="50 second ago"
                 channel = "Think Befor Act"
                 title =" Josh Talks"
-                image ="https://i.ytimg.com/an_webp/lIrPCKN6CSw/mqdefault_6s.webp?du=3000&sqp=CICN6f4F&rs=AOn4CLA4nqjI1KuSwKfVGsHyPU-22pUMAg"
+                image ="https://yt3.ggpht.com/ytc/AAUvwnglL3MbJMOzqt8z_4dMoK6j338gqU6azO5z8HQ9ZQ=s88-c-k-c0x00ffffff-no-rj"
             
             />
             <VideoRow
@@ -60,7 +60,7 @@ function SearchPage() {
                 timestamp="50 second ago"
                 channel = "All time evergreen Music"
                 title ="Zee Music"
-                image ="https://i.ytimg.com/an_webp/wF_B_aagLfI/mqdefault_6s.webp?du=3000&sqp=CO7v6P4F&rs=AOn4CLA20KELm2xmOPxBn8s8Pv1mokRQfw"
+                image ="https://yt3.ggpht.com/ytc/AAUvwniayS5WllYgeNjIAPtQ2mvATH8Su5oSs18Qy-VQsg=s176-c-k-c0x00ffffff-no-rj-mo"
             
             />
             <VideoRow
@@ -70,7 +70,7 @@ function SearchPage() {
                 timestamp="50 second ago"
                 channel = "A to Z Everithing Here..!"
                 title ="Think Befor Act"
-                image ="https://yt3.ggpht.com/ytc/AAUvwng_Fd8mWuEMvJ9nEP8nAVw2Ig8d5eQUFWTxMrF94w=s88-c-k-c0x00ffffff-no-rj"
+                image ="https://yt3.ggpht.com/ytc/AAUvwniayS5WllYgeNjIAPtQ2mvATH8Su5oSs18Qy-VQsg=s176-c-k-c0x00ffffff-no-rj-mo"
             
             />
         </div>
